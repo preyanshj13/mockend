@@ -358,41 +358,5 @@
     "product": "MFL 5 year loan",
     "status": "Drafted",
     "days": 478
-  },
-  {
-    "loan_number": 668874559,
-    "borrower": "Dick Jallin",
-    "address": "4 Morning Crossing",
-    "city": "Tallkalakh",
-    "country": "Syria",
-    "amount": 71171,
-    "type": "Assumption",
-    "product": "MFL 15 year loan",
-    "status": "Drafted",
-    "days": 667
-  },
-  {
-    "loan_number": 221666231,
-    "borrower": "Milt Spatarul",
-    "address": "883 Morrow Crossing",
-    "city": "Wangmo",
-    "country": "China",
-    "amount": 90632,
-    "type": "Assumption",
-    "product": "MFL 5 year loan",
-    "status": "Application",
-    "days": 43
-  },
-  {
-    "loan_number": 409881720,
-    "borrower": "Van Posvner",
-    "address": "45708 Ridge Oak Parkway",
-    "city": "Amboise",
-    "country": "France",
-    "amount": 78978,
-    "type": "Refinance",
-    "product": "MFL 15 year loan",
-    "status": "Application",
-    "days": 73
   }
 ]}
