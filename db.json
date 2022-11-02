@@ -1,6 +1,6 @@
 {"records":[
   {
-    "loan_number": 631695631,
+    "id": 631695631,
     "borrower": "Benita Eldredge",
     "address": "1953 Lotheville Street",
     "city": "Puerto Colombia",
@@ -12,7 +12,7 @@
     "days": 248
   },
   {
-    "loan_number": 232845422,
+    "id": 232845422,
     "borrower": "Amalita Swigger",
     "address": "4861 Redwing Parkway",
     "city": "Marne-la-Vallée",
@@ -24,7 +24,7 @@
     "days": 64
   },
   {
-    "loan_number": 353235349,
+    "id": 353235349,
     "borrower": "Umeko Duffill",
     "address": "4 Twin Pines Trail",
     "city": "Rydzyna",
@@ -36,7 +36,7 @@
     "days": 309
   },
   {
-    "loan_number": 653862717,
+    "id": 653862717,
     "borrower": "Briggs Ragbourn",
     "address": "061 Kensington Court",
     "city": "Ziliang",
@@ -48,7 +48,7 @@
     "days": 68
   },
   {
-    "loan_number": 178878726,
+    "id": 178878726,
     "borrower": "Guillemette Oldam",
     "address": "4 Vahlen Drive",
     "city": "Xin’an",
@@ -60,7 +60,7 @@
     "days": 338
   },
   {
-    "loan_number": 497688240,
+    "id": 497688240,
     "borrower": "Alejandra Youthead",
     "address": "66 Artisan Trail",
     "city": "Anserma",
@@ -72,7 +72,7 @@
     "days": 580
   },
   {
-    "loan_number": 901106126,
+    "id": 901106126,
     "borrower": "Raine Leyrroyd",
     "address": "2 Vidon Center",
     "city": "Nashville",
@@ -84,7 +84,7 @@
     "days": 825
   },
   {
-    "loan_number": 449359571,
+    "id": 449359571,
     "borrower": "Tann Pykett",
     "address": "17 Grover Avenue",
     "city": "Gedera",
@@ -96,7 +96,7 @@
     "days": 788
   },
   {
-    "loan_number": 954365747,
+    "id": 954365747,
     "borrower": "Tobie Gill",
     "address": "0226 Dryden Point",
     "city": "Wangmeng",
@@ -108,7 +108,7 @@
     "days": 76
   },
   {
-    "loan_number": 790220148,
+    "id": 790220148,
     "borrower": "Win Le Breton",
     "address": "23 Chinook Court",
     "city": "Cayungnan",
