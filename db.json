@@ -404,20 +404,6 @@
       "days": 609,
       "approver":"",
       "reason":""
-    },
-    {
-      "id": 448216857,
-      "borrower": "Davon Caddick",
-      "address": "2661 Leroy Point",
-      "city": "Sharan",
-      "country": "Russia",
-      "amount": 26797,
-      "type": "Purchase",
-      "product": "MFL 5 year loan",
-      "status": "Drafted",
-      "days": 478,
-      "approver":"",
-      "reason":""
     }
   ]}
   
